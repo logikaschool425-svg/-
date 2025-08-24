@@ -6,7 +6,7 @@ body {
 header {
     width: 100%;
     height: 100vh;
-    background: url(header_bg.webp);
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaEMEwLbr2a2MDG77txdl7tS1kQ0tMRY7cEw&s");
     background-size: cover;
     display: flex;
 }
@@ -115,3 +115,4 @@ footer {
     justify-content: center;
     color: white;
 }
+
